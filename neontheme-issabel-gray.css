@@ -1,0 +1,70 @@
+@import url(https://demo.neontheme.com/assets/css/skins/black.css);
+
+.page-container .main-content{
+background: slategray;
+}
+
+#neo-contentbox{
+background: slategray;
+}
+
+div.neo-module-content *, div.neo-module-content *::before, div.neo-module-content *::after {
+    box-sizing: initial;
+}
+
+issabel-callcenter-llamada-info{
+color:black;
+}
+
+ui-widget-content ui-corner-all{
+color:black;
+}
+
+footer.main{
+color:black;
+}
+
+body a {
+color:blue;
+}
+
+ui-widget-content ui-corner-all{
+color: black;
+}
+
+.breadcrumb > li a{ 
+color: black
+}
+
+#issabel-callcenter-llamada-paneles > div > fieldset, #issabel-callcenter-llamada-paneles > div#issabel-callcenter-llamada-paneles-izq  > div > fieldset {
+    right: 0.5em;
+    background-color: slategray;
+}
+
+#issabel-callcenter-llamada-paneles > div > fieldset > div, #issabel-callcenter-llamada-paneles > div#issabel-callcenter-llamada-paneles-izq  > div > fieldset > div {
+    background-color: slategray;
+}
+
+#issabel-callcenter-cejillas-contenido {
+    background-color: slategray;
+}
+
+div.neo-module-content *, div.neo-module-content *::before, div.neo-module-content *::after {
+    color: black;
+}
+
+#issabel-callcenter-titulo-consola {
+    background-color: slategray;
+}
+
+#issabel-callcenter-controles {
+    background-color: slategray;
+}
+
+.issabel-callcenter-class-estado-ocioso {
+    background-color: aqua;
+}
+
+.issabel-callcenter-class-estado-break {
+    background-color: orange;
+}
