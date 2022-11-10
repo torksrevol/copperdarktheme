@@ -1,0 +1,277 @@
+.sn-frameset-header,
+body,
+table,
+.navbar-default,
+HTML[data-doctype="true"] BODY.non_standard_lists {
+    background: #0a0a0a;
+}
+
+HTML[data-doctype="true"] .veditor_body table.sc_editor,
+.veditor_body .sc_editor .m2m_filter_container table,
+.veditor_body .sc_editor table.container_table,
+.veditor_body .sc_editor .catalog-form-slushbucket table,
+.veditor_body .sc_editor .catalog-form-slushbucket td.label {
+    background: #1a1a1a;   
+}
+
+HTML[data-doctype="true"] .veditor_body {
+    border: 1px solid #444;
+}
+
+.navbar-default {
+    border: 0;
+    border-bottom: 4px solid #2a2a2a;
+}
+
+.navpage-layout .navbar-divider {
+    background: #2a2a2a;
+}
+
+HTML[data-doctype="true"] .drag_section_header {
+    background: #2a2a2a;  
+}
+
+.drag_section {
+    border: 1px solid #444;
+}
+
+.h-card,
+.process-breadcrumb.process-breadcrumb-border {
+    background: #2a2a2a;
+    border: 1px solid #444;   
+}
+.sn-card-component_accent-bar {
+    background: #777;
+}
+
+.sn-card-component,
+.sn-widget-list li,
+.sn-card-component_records .sn-widget-list-table-cell:last-of-type {
+    color: #ddd;
+}
+
+.sn-card-component_meta.sn-card-component_meta_sibling + .sn-card-component_meta, .sn-card-component_meta.sn-card-component_meta_long + .sn-card-component_meta {
+    color: #aaa;
+}
+
+HTML[data-doctype="true"] .tab_section > span {
+    border: 1px solid #444;
+}
+
+.header_decorations {
+    background: 0 !important;
+}
+
+/* tables */
+.table tr.list_odd td {
+    background: #3a3a3a;
+}
+
+.table tr.list_even td {
+    background: #4a4a4a;
+}
+
+.table tr.list_odd td:hover,
+.table tr.list_even td:hover {
+    background: #555;
+}
+
+.table tbody tr {
+    border: none;
+}
+
+.table.table-hover > tbody > tr:hover > td,
+.table.table-hover > tbody > tr:hover > th,
+.table.table-hover > tbody > tr.hover > td,
+.table.table-hover > tbody > tr.hover > th,
+.table.table-hover.table-striped.table-detail-row > tbody > tr:hover > td,
+.table.table-hover.table-striped.table-detail-row > tbody > tr:hover > th,
+.table.table-hover.table-striped.table-detail-row > tbody > tr.hover > td,
+.table.table-hover.table-striped.table-detail-row > tbody > tr.hover > th {
+    background-color: #2a2a2a;
+}
+
+.table.table-hover > tbody > tr > td,
+.table.table-hover > tbody > tr > th,
+.table.table-hover > tbody > tr > td,
+.table.table-hover > tbody > tr > th,
+.table.table-hover.table-striped.table-detail-row > tbody > tr > td,
+.table.table-hover.table-striped.table-detail-row > tbody > tr > th,
+.table.table-hover.table-striped.table-detail-row > tbody > tr > td,
+.table.table-hover.table-striped.table-detail-row > tbody > tr > th {
+    border: 0;
+}
+
+/* tabs */
+HTML[data-doctype="true"] .tabs2_strip .tabs2_tab {
+    background-color: #2a2a2a;
+}
+
+HTML[data-doctype="true"] .tabs2_strip .tabs2_tab.tabs2_active {
+    background-color: #3a3a3a;
+}
+
+.tab_caption_text {
+    color: #ddd !important;
+}
+
+.nav-tabs > li,
+.nav-tabs .tabs2_tab,
+.tabs2_strip > li,
+.tabs2_strip .tabs2_tab {
+    border: 1px solid #444;
+}
+
+.tabs2_list.list_v2,
+HTML[data-doctype="true"] .list_nav.list_nav_top,
+.list_nav {
+    background: #3a3a3a;
+}
+
+#tabs2_list {
+    padding-left: 0 !important;
+}
+
+.nav-tabs > li:hover.justselected, .nav-tabs > li:hover.tabs2_active.tabs2_hover, .nav-tabs > li:hover.tabs2_active:hover, .nav-tabs > li.hover.justselected, .nav-tabs > li.hover.tabs2_active.tabs2_hover, .nav-tabs > li.hover.tabs2_active:hover, .nav-tabs > li:focus.justselected, .nav-tabs > li:focus.tabs2_active.tabs2_hover, .nav-tabs > li:focus.tabs2_active:hover, .nav-tabs > li.focus.justselected, .nav-tabs > li.focus.tabs2_active.tabs2_hover, .nav-tabs > li.focus.tabs2_active:hover, .nav-tabs .tabs2_tab:hover.justselected, .nav-tabs .tabs2_tab:hover.tabs2_active.tabs2_hover, .nav-tabs .tabs2_tab:hover.tabs2_active:hover, .nav-tabs .tabs2_tab.hover.justselected, .nav-tabs .tabs2_tab.hover.tabs2_active.tabs2_hover, .nav-tabs .tabs2_tab.hover.tabs2_active:hover, .nav-tabs .tabs2_tab:focus.justselected, .nav-tabs .tabs2_tab:focus.tabs2_active.tabs2_hover, .nav-tabs .tabs2_tab:focus.tabs2_active:hover, .nav-tabs .tabs2_tab.focus.justselected, .nav-tabs .tabs2_tab.focus.tabs2_active.tabs2_hover, .nav-tabs .tabs2_tab.focus.tabs2_active:hover, .tabs2_strip > li:hover.justselected, .tabs2_strip > li:hover.tabs2_active.tabs2_hover, .tabs2_strip > li:hover.tabs2_active:hover, .tabs2_strip > li.hover.justselected, .tabs2_strip > li.hover.tabs2_active.tabs2_hover, .tabs2_strip > li.hover.tabs2_active:hover, .tabs2_strip > li:focus.justselected, .tabs2_strip > li:focus.tabs2_active.tabs2_hover, .tabs2_strip > li:focus.tabs2_active:hover, .tabs2_strip > li.focus.justselected, .tabs2_strip > li.focus.tabs2_active.tabs2_hover, .tabs2_strip > li.focus.tabs2_active:hover, .tabs2_strip .tabs2_tab:hover.justselected, .tabs2_strip .tabs2_tab:hover.tabs2_active.tabs2_hover, .tabs2_strip .tabs2_tab:hover.tabs2_active:hover, .tabs2_strip .tabs2_tab.hover.justselected, .tabs2_strip .tabs2_tab.hover.tabs2_active.tabs2_hover, .tabs2_strip .tabs2_tab.hover.tabs2_active:hover, .tabs2_strip .tabs2_tab:focus.justselected, .tabs2_strip .tabs2_tab:focus.tabs2_active.tabs2_hover, .tabs2_strip .tabs2_tab:focus.tabs2_active:hover, .tabs2_strip .tabs2_tab.focus.justselected, .tabs2_strip .tabs2_tab.focus.tabs2_active.tabs2_hover, .tabs2_strip .tabs2_tab.focus.tabs2_active:hover {
+    background: #4a4a4a;
+    border-left: 1px solid #444;
+}
+
+HTML[data-doctype="true"] .tabs2_strip .tabs2_tab:hover, HTML[data-doctype="true"] .tabs2_strip .tabs2_tab:focus {
+    border-bottom: 0;
+}
+
+/* popover */
+
+.popover {
+    border: 1px solid #444;
+    background: #2a2a2a;
+}
+
+.popover-header {
+    background: #2a2a2a;
+    border-bottom: 1px solid #444;
+}
+
+.popover-title {
+    background: none;
+}
+.popover-header h4 {
+    color: #ddd;
+}
+
+.popover-content {
+    background: #1a1a1a;
+}
+
+
+/* buttons */
+.btn-default {
+    background: none;
+    color: #bbb;
+}
+
+.btn-default:not(.icon-help),
+.btn-destructive-subdued,
+.btn-success-subdued,
+.nav-segmented > li,
+.input-group-addon,
+HTML[data-doctype="true"] INPUT.home_title {
+    color: #ddd;
+    border: 1px solid #444;
+    background: #3a3a3a;
+}
+
+HTML[data-doctype="true"] INPUT.home_title {
+    border-radius: 3px;
+    text-align: center;
+}
+
+/* input */
+.form-control {
+    background: #2a2a2a;
+    border: 1px solid #444;    
+    color: #ddd;
+}
+
+.form-control::placeholder {
+    color: #aaa;
+}
+
+.list_row_number_input {
+    color: #aaa !important;
+}
+
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {
+    background: #161616;
+    border: 1px solid #444;
+    color: #aaa;
+}
+
+HTML[data-doctype="true"] BUTTON:not(.btn),
+HTML[data-doctype="true"] INPUT.button
+{
+    background: none;
+}
+
+HTML[data-doctype="true"] .input-group.input-group-3 .form-control:last-of-type {
+    border-right: 1px solid #444;
+}
+
+/* font colours */
+HTML[data-doctype="true"] H1.form_header,
+HTML[data-doctype="true"] BODY,
+.process-breadcrumb > li > a,
+.process-breadcrumb > li > a:visited,
+.process-breadcrumb > li > a:hover,
+HTML[data-doctype="true"] tr.list_even td,
+HTML[data-doctype="true"] tr.list_odd td,
+HTML[data-doctype="true"] .drag_section_header,
+HTML[data-doctype="true"] SELECT:not([readonly="readonly"]),
+HTML[data-doctype="true"] SPAN.list_row_number_input,
+HTML[data-doctype="true"] BUTTON:not(.btn), HTML[data-doctype="true"] INPUT.button,
+.is-required .control-label,
+.tab_caption_text,
+.navbar .navbar-title,
+.navbar-default .navbar-text,
+.table td a, .table th a,
+.table > thead > tr > th,
+.table > thead > tr > td,
+HTML[data-doctype="true"] .glide-grid-block .drag_section_header a, HTML[data-doctype="true"] .glide-grid-block .header_decorations a,
+.sn-card-component_summary .sn-widget-textblock {
+    color: #ddd !important;
+}
+
+.is-prefilled .required-marker::before {
+    color: #ff9925;
+}
+
+table#qty.sc_cart_window {
+background-color: slategray
+}
+
+HTML[data-doctype=true] THEAD.checkout_title, HTML[data-doctype=true] THEAD.checkout_title TH, HTML[data-doctype=true] TR.checkout_title, HTML[data-doctype=true] TR.checkout_title TH {
+    background-color: BLACK;
+}
+
+.highlight_enabled .list_div tr.list_row, .highlight_enabled .list_div tr.list_row td, .highlight_enabled .list_div tr.list_row td img, .highlight_enabled .list_div tr.list_row td div, .highlight_enabled .list_div tr.list_row_detail td, .highlight_enabled .list_div tr.list_hierarchical_hdr, .highlight_enabled .list_div tr.list_hierarchical_hdr td.list_hierarchical_hdr {
+    background-color: BLACK;
+}
+
+HTML[data-doctype="true"] H1.form_header, HTML[data-doctype="true"] BODY, .process-breadcrumb > li > a, .process-breadcrumb > li > a:visited, .process-breadcrumb > li > a:hover, HTML[data-doctype="true"] tr.list_even td, HTML[data-doctype="true"] tr.list_odd td, HTML[data-doctype="true"] .drag_section_header, HTML[data-doctype="true"] SELECT:not([readonly="readonly"]), HTML[data-doctype="true"] SPAN.list_row_number_input, HTML[data-doctype="true"] BUTTON:not(.btn), HTML[data-doctype="true"] INPUT.button, .is-required .control-label, .tab_caption_text, .navbar .navbar-title, .navbar-default .navbar-text, .table td a, .table th a, .table > thead > tr > th, .table > thead > tr > td, HTML[data-doctype="true"] .glide-grid-block .drag_section_header a, HTML[data-doctype="true"] .glide-grid-block .header_decorations a, .sn-card-component_summary .sn-widget-textblock {
+    color: slategray !important;
+}
+
+.modal-content {
+    background-color: #303a46;
+}
+
+HTML[data-doctype=true] TR.list_header th, HTML[data-doctype=true] TR.list_header.hierarchical th.hierarchical, HTML[data-doctype=true] TR.list_header td {
+    background-color: #303a46;
+}
+
+.form-control {
+    background: #303a46;
+}
